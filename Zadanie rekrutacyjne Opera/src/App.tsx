@@ -1,5 +1,11 @@
+import SlidesBody from "./Components/SlidesBody";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <SlidesBody />
+    </>
+  );
 }
 
 export default App;
